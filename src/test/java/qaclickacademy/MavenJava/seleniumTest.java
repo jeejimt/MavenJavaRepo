@@ -1,0 +1,17 @@
+package qaclickacademy.MavenJava;
+
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+
+public class seleniumTest {
+	@Test
+	public void method1(){
+		System.out.println("Hello");
+	}
+	@Test
+	public void method2() {
+		System.out.println("sara");
+	}
+
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="qaclickacademy.MavenJava.Api" duration-ms="32" started-at="2021-10-14T16:54:49 CDT" finished-at="2021-10-14T16:54:49 CDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="32" started-at="2021-10-14T16:54:49 CDT" finished-at="2021-10-14T16:54:49 CDT">
+      <class name="qaclickacademy.MavenJava.Api">
+        <test-method status="PASS" signature="method3()[pri:0, instance:qaclickacademy.MavenJava.Api@eec5a4a]" name="method3" duration-ms="4" started-at="2021-10-14T16:54:49 CDT" finished-at="2021-10-14T16:54:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method4()[pri:0, instance:qaclickacademy.MavenJava.Api@eec5a4a]" name="method4" duration-ms="0" started-at="2021-10-14T16:54:49 CDT" finished-at="2021-10-14T16:54:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+      </class> <!-- qaclickacademy.MavenJava.Api -->
+    </test> <!-- Command line test -->
+  </suite> <!-- qaclickacademy.MavenJava.Api -->
+</testng-results>

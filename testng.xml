@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+   <class name="qaclickacademy.MavenJava.seleniumTest"/>
+        <class name="qaclickacademy.MavenJava.Api"/> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+<!-- 
+to execute single test/java class(apiTest) ,in terminal '>mvn -DapiTest test' 
+search maven repository surefire  single test
+ -->
