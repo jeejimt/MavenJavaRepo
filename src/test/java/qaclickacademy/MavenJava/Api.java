@@ -9,6 +9,8 @@ public class Api {
 	@Test
 	public void method3() {
 		System.out.println("Hi");
+		System.out.println("Making changes for push");
+		System.out.println("Another chabge for push");
 	}
 	@Test
 	public void method4() {

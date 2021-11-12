@@ -12,6 +12,7 @@ public class seleniumTest {
 	@Test
 	public void method2() {
 		System.out.println("sara");
+		System.out.println("making chages in selenium");
 	}
 
 }
