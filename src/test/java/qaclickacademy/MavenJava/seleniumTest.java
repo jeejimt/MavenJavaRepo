@@ -14,5 +14,9 @@ public class seleniumTest {
 		System.out.println("sara");
 		System.out.println("making chages in selenium");
 	}
+	@Test
+	public void method3() {
+		System.out.println("adding thid method in develop branch only");
+	}
 
 }
