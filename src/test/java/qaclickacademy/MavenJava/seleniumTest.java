@@ -18,5 +18,9 @@ public class seleniumTest {
 	public void method3() {
 		System.out.println("adding thid method in develop branch only");
 	}
+	@Test
+	public void method4(){
+		System.out.println("adding this method in develop branch of MavenJavaRepo-second project");
+	}
 
 }
